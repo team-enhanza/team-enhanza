@@ -30,8 +30,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=team-enhanza&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=team-enhanza&layout=compact&theme=transparent" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=team-enhanza&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub contribution statistics showing commits, pull requests, and issues" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=team-enhanza&layout=compact&theme=transparent" alt="Programming language usage distribution chart" />
 </p>
 
 <p align="center">
