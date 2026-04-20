@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/team-enhanza?tab=followers"><img src="https://img.shields.io/github/followers/team-enhanza?label=Followers&style=for-the-badge" alt="GitHub followers" /></a>
   <a href="https://github.com/team-enhanza"><img src="https://img.shields.io/github/stars/team-enhanza?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="GitHub stars" /></a>
-  <a href="https://komarev.com/ghpvc/?username=team-enhanza&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=team-enhanza&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://github.com/team-enhanza"><img src="https://komarev.com/ghpvc/?username=team-enhanza&style=for-the-badge" alt="Profile views" /></a>
 </p>
 
 ---
@@ -35,11 +35,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=team-enhanza&theme=transparent&hide_border=false" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=team-enhanza&theme=transparent&hide_border=false" alt="GitHub contribution streak statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=team-enhanza&theme=flat&no-frame=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=team-enhanza&theme=flat&no-frame=true&margin-w=8&margin-h=8" alt="GitHub achievement trophies and milestones" />
 </p>
 
 ---
