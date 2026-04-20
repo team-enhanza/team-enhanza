@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">🚀 Team Enhanza</h1>
+<p align="center">
+  <em>Engineering better products through clean code, automation, and scalable systems.</em>
+</p>
 
-<!--
-**team-enhanza/team-enhanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/team-enhanza?tab=followers"><img src="https://img.shields.io/github/followers/team-enhanza?label=Followers&style=for-the-badge" alt="View Team Enhanza followers" /></a>
+  <a href="https://github.com/team-enhanza?tab=repositories"><img src="https://img.shields.io/github/stars/team-enhanza?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="View Team Enhanza repository stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=team-enhanza&style=for-the-badge" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About
+
+- 🛠️ Building maintainable, production-ready software
+- 🤝 Open to collaboration on high-impact engineering initiatives
+- 📚 Focused on modern architecture, testing, and developer experience
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,nextjs,java,spring,go,docker,kubernetes,aws,postgres,redis,githubactions,terraform&perline=8" alt="Technology stack: JavaScript, TypeScript, Node.js, Python, React, Next.js, Java, Spring, Go, Docker, Kubernetes, AWS, PostgreSQL, Redis, GitHub Actions, Terraform" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=team-enhanza&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub contribution statistics showing commits, pull requests, and issues" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=team-enhanza&layout=compact&theme=transparent" alt="Programming language usage distribution chart" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=team-enhanza&theme=transparent&hide_border=false" alt="GitHub contribution streak statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=team-enhanza&theme=flat&no-frame=true&margin-w=8&margin-h=8" alt="GitHub achievement trophies and milestones" />
+</p>
+
+---
+
+## 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=team-enhanza&theme=github-compact" alt="Contribution activity graph" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote card" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=team-enhanza&limit=5&theme=graywhite&combine_all_yearly_contributions=true" alt="Top contributed repositories and contribution counts" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Building resilient backend services and APIs
+- Improving CI/CD reliability and release workflows
+- Accelerating developer productivity with automation
+
+---
+
+## 🤝 Let’s Connect
+
+- 📫 Open an issue or discussion in any repository to collaborate
+- 🌐 Explore projects: [github.com/team-enhanza?tab=repositories](https://github.com/team-enhanza?tab=repositories)
