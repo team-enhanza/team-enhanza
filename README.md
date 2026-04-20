@@ -52,6 +52,22 @@
 
 ---
 
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote card" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=team-enhanza&limit=5&theme=graywhite&combine_all_yearly_contributions=true" alt="Top contributed repositories and contribution counts" />
+</p>
+
+---
+
 ## 🎯 Current Focus
 
 - Building resilient backend services and APIs
