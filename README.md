@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="https://github.com/team-enhanza?tab=followers"><img src="https://img.shields.io/github/followers/team-enhanza?label=Followers&style=for-the-badge" alt="GitHub followers" /></a>
-  <a href="https://github.com/team-enhanza"><img src="https://img.shields.io/github/stars/team-enhanza?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="GitHub stars" /></a>
-  <a href="https://github.com/team-enhanza"><img src="https://komarev.com/ghpvc/?username=team-enhanza&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://github.com/team-enhanza?tab=repositories"><img src="https://img.shields.io/github/stars/team-enhanza?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="GitHub stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=team-enhanza&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -63,4 +63,4 @@
 ## 🤝 Let’s Connect
 
 - 📫 Open an issue or discussion in any repository to collaborate
-- 💼 Profile: [github.com/team-enhanza](https://github.com/team-enhanza)
+- 🌐 Explore projects: [github.com/team-enhanza?tab=repositories](https://github.com/team-enhanza?tab=repositories)
