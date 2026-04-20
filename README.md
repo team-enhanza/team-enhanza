@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/team-enhanza?tab=followers"><img src="https://img.shields.io/github/followers/team-enhanza?label=Followers&style=for-the-badge" alt="GitHub followers" /></a>
-  <a href="https://github.com/team-enhanza?tab=repositories"><img src="https://img.shields.io/github/stars/team-enhanza?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="GitHub stars" /></a>
+  <a href="https://github.com/team-enhanza?tab=followers"><img src="https://img.shields.io/github/followers/team-enhanza?label=Followers&style=for-the-badge" alt="View Team Enhanza followers" /></a>
+  <a href="https://github.com/team-enhanza?tab=repositories"><img src="https://img.shields.io/github/stars/team-enhanza?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="View Team Enhanza repository stars" /></a>
   <img src="https://komarev.com/ghpvc/?username=team-enhanza&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -22,7 +22,7 @@
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,nextjs,java,spring,go,docker,kubernetes,aws,postgres,redis,githubactions,terraform&perline=8" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,nextjs,java,spring,go,docker,kubernetes,aws,postgres,redis,githubactions,terraform&perline=8" alt="Technology stack: JavaScript, TypeScript, Node.js, Python, React, Next.js, Java, Spring, Go, Docker, Kubernetes, AWS, PostgreSQL, Redis, GitHub Actions, Terraform" />
 </p>
 
 ---
